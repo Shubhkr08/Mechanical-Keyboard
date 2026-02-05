@@ -1,4 +1,4 @@
-﻿"Index","Quantity","Part Number","Manufacturer Part Number","Description","Customer Reference","Available","Backorder","Unit Price","Extended Price USD"
+"Index","Quantity","Part Number","Manufacturer Part Number","Description","Customer Reference","Available","Backorder","Unit Price","Extended Price USD"
 "1","1","5407-ESP32-S3-WROOM-1-N16R8CT-ND","ESP32-S3-WROOM-1-N16R8","RF TXRX MODULE BT PCB TRACE SMD","DigiKey.in","1","0","6.56000","6.56"
 "2","1","2073-USB4125-GF-ACT-ND","USB4125-GF-A","CONN RCPT TYPE C 6P SMD RA","DigiKey.in","1","0","0.57000","0.57"
 "3","5","5272-AMS1117-3.3CT-ND","AMS1117-3.3","IC REG LINEAR 3.3V 1A SOT-223-3L","DigiKey.in","5","0","0.27000","1.35"
@@ -13,6 +13,4 @@
 "12","1","311-10KARCT-ND","RC0805JR-0710KL","RES 10K OHM 5% 1/8W 0805","DigiKey.in","1","0","0.10000","0.10"
 "13","1","DigiKey Shipping Fee","","DigiKey Shipping Fee","DigiKey.in","1","0","20.0","20.0"
 "14","1","JLCPCB PCB,Stencil and Shipping ",""," PCB,Stencil and Shipping Fee","https://jlcpcb.com/","1","0","28.81","28.81"
-
-
 
