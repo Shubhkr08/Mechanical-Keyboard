@@ -1,16 +1,11 @@
 # Mechanical-Keyboard
-A custom **mechanical keyboard** built around the **Raspberry Pi Pico (RP2040)**. This project covers the full pipeline—from schematic and PCB design to BOM, budgeting, and manufacturing.
+I wanted to make a **mecanical keyboard** ,So i Choose a **60% layout** Keyboard as it is compact and funtional enough.
+We will be using switch matrix wo we need less gpio pins
 
----
+## Features
 
-## ✨ Features
-
-- Raspberry Pi Pico (RP2040)
-- Cherry MX–style mechanical switches
-- Diode-protected key matrix
-- Custom PCB (JLCPCB)
-- Backlit keycaps support
-- Compact, hackable design
+- Base on Raspberry pico
+- Has 61 keys ( 60% Keyboard Matrix)
 
 - ### 🔌 Schematic
 - <img width="1388" height="979" alt="Screenshot (64)" src="https://github.com/user-attachments/assets/ff7585e7-83f1-4861-9735-c09dc8402372" />
@@ -34,26 +29,11 @@ A custom **mechanical keyboard** built around the **Raspberry Pi Pico (RP2040)**
 
 **Estimated Total Hardware Cost:** **USD 194.64**
 
-> Prices are approximate and may vary by region, quantity, or time.
-
----
-
-## 🛠️ Hardware
-
-- **MCU:** Raspberry Pi Pico (RP2040)
-- **Switches:** Cherry MX compatible
-- **Matrix:** Row/column matrix with per-key diodes
-- **PCB:** Custom 2-layer PCB fabricated by JLCPCB
-
----
+## Hardware
+- Raspberry Pico 
+- Cherry MX compatible Switches
+- Diode
+- 2 layer PCB
 
 ## 💻 Firmware
-
-The keyboard is compatible with **KMK (CircuitPython)**.
-
-Typical features include:
-- Key matrix scanning
-- Layer support
-- Easy keymap customization
-
-Firmware files can be added in the `/firmware` directory.
+It is Based on KMK and Circuit Python
